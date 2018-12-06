@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "dda-lua-mop",
+    "name": "Mopping of spilled liquids",
+    "authors": [ "ZhilkinSerg", "Poragon" ],
+    "maintainers": [ "Poragon" ],
+    "description": "Added ability to pickup spilled liquids with mop.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
